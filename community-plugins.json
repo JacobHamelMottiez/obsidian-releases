@@ -27067,5 +27067,12 @@
     "author": "karx",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Digital garden pipeline: inbox scoring, LLM-powered frontmatter enrichment, and WikiLink suggestions — no terminal needed.",
     "repo": "karx/kaaroGarden"
+  },
+  {
+    "id": "vault-size",
+    "name": "Vault Size",
+    "author": "Jacob Hamel-Mottiez",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. This plugin calculates and displays the total size of your vault in the bottom ribbon bar. When you click on it, it shows a detailed breakdown of file sizes by folder.",
+    "repo": "JacobHamelMottiez/Vault-Space-Plugin"
   }
 ]
